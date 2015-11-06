@@ -6,8 +6,11 @@ title: "Poiana Baronilor Locali"
 jurnaliști, care se se ocupă de [hacking civic][civic-hacking]. Ne întâlnim
 lunar într-un hackathon și ne organizăm pe [grupul de Facebook][fb].
 
+Următorul hackathon este pe [14 noiembrie][event].
+
 [civic-hacking]: https://opengovdata.io/2014/civic-hacking/
 [fb]: https://www.facebook.com/groups/270378973085847/
+[event]: https://www.facebook.com/events/913008888793179/
 
 
 ## Valori
