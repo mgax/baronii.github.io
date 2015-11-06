@@ -18,3 +18,11 @@ lunar într-un hackaton și ne organizăm pe [grupul de Facebook][fb].
   altora unde are sens.
 * Îmbrățișăm diversitatea: încercăm multe idei, vedem ce merge, abandonăm
   lucrurile care nu se leagă, învățăm unii de la alții.
+
+
+## Proiecte
+
+Hackatoanele noastre funcționează pe bază de propuneri de proiecte. Mai jos
+este o listă incompletă de proiecte la care putem lucra.
+
+{% include project_list.html %}

@@ -1,0 +1,27 @@
+<dl class="dl-horizontal row">
+{% assign projects = site.projects | sort: 'sort' %}
+{% for project in projects %}
+
+  <dt class="col-sm-2">{{ project.title }}</dt>
+  <dd class="col-sm-10">
+    {{ project.description }}
+  </dd>
+  <dd class="col-sm-10 col-sm-offset-2">
+
+    status:
+    <span class="label level-{{ project.level }}">{{ project.level }}</span>
+
+    {% assign owner_url = project.owner_url %}
+    {% unless owner_url %}{% assign owner_url = '#' %}{% endunless %}
+    responsabil: <a href="{{ owner_url }}">{{ project.owner }}</a>
+
+  </dd>
+
+  {% if project.href %}
+  <dd class="col-sm-10 col-sm-offset-2">
+    <a href="{{ project.href }}">{{ project.href }}</a>
+  </dd>
+  {% endif %}
+
+{% endfor %}
+</dl>
