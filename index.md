@@ -2,10 +2,16 @@
 layout: basic
 title: "Poiana Baronilor Locali"
 ---
+"Poiana Baronilor" este o comunitate de activiști, hackeri, designeri și
+jurnaliști, care se se ocupă de [hacking civic][civic-hacking]. Ne întâlnim
+lunar într-un hackaton și ne organizăm pe [grupul de Facebook][fb].
+
+[civic-hacking]: https://opengovdata.io/2014/civic-hacking/
+[fb]: https://www.facebook.com/groups/270378973085847/
+
 
 ## Valori
 
-* Ne ocupăm cu hacking civic.
 * Alegem soluții simple și pragmatice, ne concentrăm pe rezultate.
 * Suntem deschiși și primitori: publicăm codul sursă și datele, suntem
   transparenți cu motivațiile care ne împing la treabă, acceptăm ajutorul
